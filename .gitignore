@@ -1,0 +1,6 @@
+input/*
+output/*
+external_data/*
+.idea/*
+*.txt
+*.out
